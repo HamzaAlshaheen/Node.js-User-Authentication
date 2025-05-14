@@ -1,8 +1,7 @@
 # Simple Node.js User Authentication
 
-![](images/Final-results.png)
-
 Secure user authentication system built with **Node.js**, **Express**, and **bcrypt**, enabling registration and login using hashed passwords for enhanced credential security.
+![](images/Final-results.png)
 ---
 Credits --> WebDevSimplified for providing learning materials.
 
