@@ -4,8 +4,7 @@
 
 Secure user authentication system built with **Node.js**, **Express**, and **bcrypt**, enabling registration and login using hashed passwords for enhanced credential security.
 ---
-credits
-WebDevSimplified
+Credits --> WebDevSimplified for providing learning materials.
 
 ## 🛠 Tools Used
 
